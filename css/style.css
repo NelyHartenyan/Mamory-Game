@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    background-color:antiquewhite;
+    background: url(../nkar.jpg) no-repeat center fixed;
+    background-size: cover;
+
+}
+.wrraper{
+    
+    width: 700px;
+    height: 450px;
+    margin: 0 auto;
+}
+.div1{
+    float: left;
+}
+.blocks{
+    float: right;
+    width: 680px;
+  
+}
+
+.block{
+    width: 165px;
+    height: 150px;
+    border: 1px solid #f9c6cb;
+    border-radius: 20px;
+    display: inline-block;
+    cursor: pointer;
+
+    background-image: url("../images/19.png");
+    background-size: cover;
+}
+
+
+
+.pic1{
+    background-image: url('../images/1.jpg');
+    background-size: cover;
+    
+}
+
+.pic2{
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+    
+}
+
+.pic3{
+    background-image: url('../images/3.jpg');
+    background-size: cover;
+    
+}
+
+.pic4{
+    background-image: url('../images/4.jpg');
+    background-size: cover;
+    
+}
+
+.pic5{
+    background-image: url('../images/5.jpg');
+    background-size: cover;
+    
+}
+
+.pic6{
+    background-image: url('../images/6.jpg');
+    background-size: cover;
+    
+}
+
+.pic7{
+    background-image: url('../images/7.jpg');
+    background-size: cover;
+    
+}
+
+.pic8{
+    background-image: url('../images/8.jpg');
+    background-size: cover;
+    
+}
+p{
+    position: absolute;
+    top: 210px;
+}
+
+.hide{
+    
+    visibility: hidden;
+}
+
+.block div{
+    
+    width: 165px;
+    height: 150px;
+    background-size: cover;
+    border: 2px solid #f9c6cb;
+}
+.b1,.b2{
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+    background: #ffd5d5;
+    border: 1px solid #ffd5d5;
+    font-size: 20px;
+    font-family: 'Kurale', serif;
+    font-family: 'Shrikhand', cursive;
+    color: #0088aa;
+}
+.b1{
+    position: absolute;
+    top:50px;
+    left: 100px;
+}
+.b2{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+#clock{
+    text-align: center;
+    border-radius: 10px;
+    height: 80px;
+    width: 100px;
+    border: 1px solid #ffd5d5;
+    background: #ffd5d5;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+    font-family: 'Kurale', serif;
+    font-family: 'Shrikhand', cursive;
+    color: #0088aa;
+    
+    
+}
